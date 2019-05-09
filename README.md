@@ -4,10 +4,8 @@ A curated list of awesome small tech tools, built by humans for humans, built by
 
 Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
-- [Awesome Small Tech](#awesome-python)
-    - [Admin Panels](#admin-panels)
-    - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
-    - [Audio](#audio)
+- [Awesome Small Tech](#awesome-smalltech)
+    - [Coming Soon](#coming-soon)
   
 
 ---
@@ -20,7 +18,7 @@ Curating a list, hang on tight!
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/javidotpro/awesome-smalltech/blob/master/CONTRIBUTING.md) first.
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/vinta/awesome-smalltech/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/vinta/awesome-smalltech/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **15**.
 
 - - -
 
