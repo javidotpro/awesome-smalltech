@@ -18,7 +18,7 @@ Curating a list, hang on tight!
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/javidotpro/awesome-smalltech/blob/master/CONTRIBUTING.md) first.
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/vinta/awesome-smalltech/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **15**.
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/javidotpro/awesome-smalltech/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **15**.
 
 - - -
 
